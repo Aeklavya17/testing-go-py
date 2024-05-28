@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+marshmallow==3.14.1
+python-dotenv==0.19.2
+Werkzeug
